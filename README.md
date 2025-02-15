@@ -33,6 +33,12 @@ After building the application, you can run the generated JAR file:
 java -jar build/libs/application-name-0.0.1-SNAPSHOT.jar
 ```
 
+If War,
+
+```bash
+java -jar build/libs/application-name-0.0.1-SNAPSHOT.war
+```
+
 # Application Structure
 
 ```bash
